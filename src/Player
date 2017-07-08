@@ -1,20 +1,4 @@
 
-This repository
-Pull requests
-Issues
-Marketplace
-Gist
- @GamingTrend
- Watch 215
-  Star 1,204
- Fork 698 PocketMine/PocketMine-MP
- Code  Issues 144  Pull requests 32  Projects 0 Insights 
-Branch: master Find file Copy pathPocketMine-MP/src/pocketmine/Player.php
-6fb41c5  on 22 Jun 2016
-@Intyre Intyre UpdateBlockPacket fixed and changed skinName to skinId
-11 contributors @shoghicp @PEMapModder @Intyre @Yosshi999 @williamtdr @Falkirks @alejandroliu @willowmaster66 @VonHirsch @legoboy0215 @Striker209
-RawBlameHistory    
-3529 lines (2969 sloc)  96.9 KB
 <?php
 /*
  *
