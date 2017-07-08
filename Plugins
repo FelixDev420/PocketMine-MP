@@ -1,0 +1,25 @@
+player/*
+worlds/*
+plugins/*
+bin7*
+timings/*
+*.log
+*.txt
+*.phar
+server.properties
+/pocketmineMP.yml
+
+# Common IDEs
+.idea/*
+nbproject/*
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Mac crap
+DS.Store
+/nbproject/private/
+
