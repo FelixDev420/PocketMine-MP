@@ -1,0 +1,21 @@
+14:52:18[INFO]Starting Minecraft PE server version v0.16.2 alpha
+14:52:18[INFO]Loading properties...
+open (Folder=Properties) set:properties up
+14:52:18[INFO]Starting Minecraft PE server on
+server set=on
+*:19132
+14:52:19[INFO]This server is running on PocketMine-MP version Alpha_1.3.12dev"(Henteko)(Minecart)"(MCPE:v0.16.2 alpha)(API 12)
+open (Folder=APIs) run:API 12.java
+14:52.19[INFO]PocketMine-MP is distibuted under the GPL license
+14:52:19[INFO]Preparing level "world"
+set:level "world"
+14:52:19[INFO]Starting GS4 status listener
+startup GS4 status=listener
+14:52:19[INFO]Setting quering port to 19132
+set port to "0.0.0.0:19132"
+14:52:19[INFO]Default game type:Adventure
+set=Default[Adventure]
+14:52:19[INFO]Starting Plugins...
+set=[Folder=Plugins] = startup
+14:52:19[INFO]Done (2.247s) !For help,type "help" or "?"
+if type (help=?) Commandlist(show)
