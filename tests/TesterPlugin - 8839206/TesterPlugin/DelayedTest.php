@@ -25,4 +25,3 @@ interface DelayedTest extends Test{
 	 */
 	public function setResult($result);
 }
-Contact GitHub API Training Shop Blog About
