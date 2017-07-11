@@ -8,18 +8,6 @@ timings/*
 *.phar
 server.properties
 /pocketmine.yml
-  }
- }
-}
-player=(Admin) or create.Admin(set.new)
-world=(edit) create.new.(world)
-14:52:19[INFO]Get starter Plugins in the shop.You can also download more Plugins on our Web-Page.
-show if open:
-Plugin:List
-Name:PVP Arena
-set:Game type:PVP
-Name:Kitsdesign
-set:Console type:Design open(Folder=Items)
 
 # Common IDEs
 .idea/*
