@@ -19,5 +19,5 @@ log.PHP-to JAVA
 API.log .int(JAVA.v8.135)=set
    else: set(.log) (API12) ~ <run:POCKETMINE.AS:APP.data>
    
-   ##Jar.load.<set.MCPE>
+   ##Jar.load.<set.MCPE>run.<MOJANG> ##MCPE
    
