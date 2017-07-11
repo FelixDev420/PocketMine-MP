@@ -1,0 +1,23 @@
+jar.
+set.=<#PHP.FILE>
+%{MAC_OSX}##%
+SET.<API12.jar> reply <FILE.JAR>*
+^{set.on OSx}"
+render:* = JAVA.setup
+render:* = FILE.jar
+set:* = JAVA;PHP7 (Translate) IF.ENGINE;OSx
+system = JAVA*^
+API = JAVA(API=PHP7) JAVA
+   ##JAVA
+     ##{API}ENGINE?JAVA
+     set.ON*MAC,OSX
+     @JAVA.(Int.jar)
+     int;PHP=JAVA
+script/
+JAVA¿.log
+log.PHP-to JAVA
+API.log .int(JAVA.v8.135)=set
+   else: set(.log) (API12) ~ <run:POCKETMINE.AS:APP.data>
+   
+   ##Jar.load.<set.MCPE>
+   
