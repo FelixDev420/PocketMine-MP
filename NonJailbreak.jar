@@ -1,4 +1,5 @@
 jar.
+GNU 3.0
 set.=<#PHP.FILE>
 %{MAC_OSX}##%
 SET.<API12.jar> reply <FILE.JAR>*
@@ -17,7 +18,7 @@ script/
 JAVA¿.log
 log.PHP-to JAVA
 API.log .int(JAVA.v8.135)=set
-   else: set(.log) (API12) ~ <run:POCKETMINE.AS:APP.data>
+   else: set(.log) (API12) ~ <run:POCKETMINE.AS:APP.data> run (MCPE)
    
    ##Jar.load.<set.MCPE>run.<MOJANG> ##MCPE
    
