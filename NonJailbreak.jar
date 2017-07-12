@@ -23,4 +23,3 @@ API.log .int(JAVA.v8.135)=set
    ##Jar.load.<set.MCPE>run.<MOJANG> ##MCPE
    script/{.md}=set.to<JAR>
    script/{.sh}=set.to<JAR>
-   
